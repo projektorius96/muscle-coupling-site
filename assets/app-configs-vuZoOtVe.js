@@ -1,1 +1,0 @@
-import{l as loader,C as CoreExports}from"./index-DnsptV8U.js";const appConfigs=loader({base:CoreExports.Node,baseProps:{configs:{"globals.scalingFactor":64,"enums.colors":["red","green","blue","black"]}}});export{appConfigs as default};
