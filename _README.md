@@ -1,0 +1,1 @@
+It does indeed run `resizeCanvas`
