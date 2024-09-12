@@ -1,1 +1,0 @@
-import{l as loader,C as CoreExports}from"./index-4NS_oIfz.js";const configs=loader({base:CoreExports.Node,baseProps:{container:document.body,width:Number(window.innerWidth),height:Number(window.innerHeight),configs:{"globals.scalingFactor":window.innerWidth/20,"globals.commonVecMagnitude":3,"enums.colors":["red","green","blue","black"]}}});export{configs as default};
